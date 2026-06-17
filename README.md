@@ -61,7 +61,8 @@ Through this project, I practiced:
 
 ## 📷 Screenshot
 
-![Coffee Mug Product Card](./Cup.jpg)
+![Coffee Mug Product Card](<img width="771" height="540" alt="image" src="https://github.com/user-attachments/assets/06077d31-dd82-4025-b3fc-756c9ba0718f" />
+)
 
 ## 👩‍💻 Author
 
